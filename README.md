@@ -20,7 +20,7 @@ In your local coding environment terminal, navigate to a folder you can clone th
 
 ```git clone replace_with_url``` 
 
-In your local environment, fix up the porgram included in the repo. For each change you make, include in a comment above that line what the previous code was or what the issue was
+In your local environment, add some comments to program included in the repo. For each change you make, include in a comment above that line what the previous code was or what the issue was
 
 ### 2. Pushing and Pulling
 #### Using git add
