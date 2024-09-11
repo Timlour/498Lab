@@ -6,11 +6,13 @@ def ask_question(question, answer):
 
 def main():
     questions = {
-        # "paris" to "Paris"
+        # 1. "paris" to "Paris"
         "What is the capital of France?": "Paris",
-        "What is 2 + 2?": "4",
+        # 2. "2 + 2 = 4" to "3 + 3 = 6"
+        "What is 3 + 3?": "6",
         "What is the color of the sky?": "blue",
-        "Who wrote 'To Kill a Mockingbird'?": "harper lee",
+        # 3. "harper lee" to "Harper Lee"
+        "Who wrote 'To Kill a Mockingbird'?": "Harper Lee",
         "What is the largest planet in our solar system?": "jupiter"
     }
 
